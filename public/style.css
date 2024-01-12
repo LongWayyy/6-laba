@@ -1,0 +1,18 @@
+body{
+    padding: 25px;
+}
+
+div{
+    border: 2px solid rgb(92, 8, 202); 
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+button {
+    margin-bottom: 5px;
+}
+
+img{
+    max-width: 500px;
+    max-height: 500px;
+}
