@@ -138,7 +138,7 @@ document.getElementById("input2").innerText = text;
 
 6. 
 ```javascript
-document.getElementById("button6").innerText = "Поменял текст";
+document.getElementById("button6").innerText = "поменявся текст";
 ```
 
 7. 
@@ -165,7 +165,7 @@ function inputoff()
 ```
 
 ```javascript
-alert("Вы навели мышкой на кнопку!");
+alert("АЙ вы навились на кнопку!");
 ```
 
 10. 
@@ -174,7 +174,7 @@ alert("Вы навели мышкой на кнопку!");
 ```
 
 ```javascript
-alert("Вы дважды нажали на кнопку!");
+alert("тыкнули  на кнопку дважды !");
 ```
 
 11. 
@@ -182,14 +182,14 @@ alert("Вы дважды нажали на кнопку!");
 <div onmouseenter="func11()"></div>
 ```
 ```javascript
-alert("Вы навели мышкой на элемент div!");
+alert("АЙ вынавелись на  div!");
 ```
 
 12. 
 ```javascript
 var element = document.getElementById("image");
 if(element.getAttribute('src') == "cat.jpg")
-    element.setAttribute('src','crab.jpg');
+    element.setAttribute('src','dog.jpg');
 else 
     element.setAttribute('src','cat.jpg');
 ```
