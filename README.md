@@ -143,7 +143,7 @@ document.getElementById("button6").innerText = "поменявся текст";
 
 7. 
 ```javascript
-document.getElementById("input3").style.color = 'red';
+document.getElementById("input3").style.color = "violet";
 ```
 
 8. 
